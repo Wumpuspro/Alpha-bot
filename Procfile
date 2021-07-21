@@ -1,1 +1,1 @@
-Worker: python main.py
+Worker: python keep_alive.py
