@@ -1964,4 +1964,4 @@ class Music(commands.Cog):
 client.add_cog(Music(client))
 
 keep_alive.keep_alive()
-client.run("ODYxODg2OTEyNjE2OTg4Njcy.YOQUvQ.zXgebLQo44vYupLeWZiv_7mhw7w")
+client.run("ODgwMzUyODMyNTAxNDY5MjA1.YSdCdw.SR46GZAZ6VA5dJlOUdiyYygHblY")
